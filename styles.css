@@ -20,6 +20,10 @@ header .description {
   line-height: 1.1;
 }
 
+div.column {
+  padding: 0 0.2em;
+}
+
 
 
 /* STYLES FOR SPECIFIC DIVS, ETC. */

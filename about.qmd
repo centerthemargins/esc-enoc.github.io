@@ -27,6 +27,8 @@ Utrecht University
 
 ::: {.column width="33%"}
 
+![](david-buil-gil.jpg){.image-border}
+
 Dr [**David Buil Gil**](https://builgil.com/)<br>
 University of Manchester
 
