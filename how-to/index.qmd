@@ -1,0 +1,13 @@
+---
+title: "Open science how to"
+listing:
+  id: how-to-guides
+  contents: "*.qmd"
+  type: grid
+  fields: [title, reading-time, description]
+---
+
+These how-to guides will help you get started with different elements of open science.
+
+::: {#how-to-guides}
+:::

@@ -1,0 +1,49 @@
+---
+title: About the European Network for Open Criminology
+---
+
+The European Network for Open Criminology (ENOC) brings together criminologists and other researchers interested in open science. We foster and encourage practices that embrace openness, integrity and reproducibility throughout the research cycle, including: 
+
+* collaborative working and sharing of research methods, 
+* use and development of open access software, 
+* making analytic code and research materials freely available online, and 
+* publishing research outputs (e.g., articles, books, data, peer reviews, software) in open access so anyone, from any part of the world, can view and download them without the need to log in or pay.
+
+We are a working group of the [European Society of Criminology](https://www.esc-eurocrim.org), Europe's largest association of crime researchers.
+
+
+## Our co-chairs
+
+ENOC is lead by three co-chairs.
+
+:::: {.columns}
+
+::: {.column width="33%"}
+
+Dr [**Amy Nivette**](https://anivet.netlify.app/)<br>
+Utrecht University
+
+:::
+
+::: {.column width="33%"}
+
+Dr [**David Buil Gil**](https://builgil.com/)<br>
+University of Manchester
+
+:::
+
+::: {.column width="33%"}
+
+![](iain-brennan.jpg){.image-border}
+
+Prof [**Iain Brennan**](https://www.hull.ac.uk/staff-directory/iain-brennan)<br>
+University of Hull
+
+:::
+
+::::
+
+
+## More about us
+
+You can read our official [Terms of Reference](./terms-of-reference.html) as a working group of the European Society of Criminology.
