@@ -4,5 +4,9 @@
     "items": [
       "/how-to/open-access.html"
     ]
+  },
+  {
+    "listing": "/news/index.html",
+    "items": []
   }
 ]

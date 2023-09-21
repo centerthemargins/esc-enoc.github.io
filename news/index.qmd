@@ -1,0 +1,11 @@
+---
+title: "News"
+listing:
+  id: news
+  contents: "*.qmd"
+---
+
+News from the European Network for Open Criminology.
+
+::: {#news}
+:::

@@ -13,6 +13,8 @@ website:
         text: Join us
       - href: how-to/index.qmd
         text: How to
+      - href: news/index.qmd
+        text: News
   body-footer: |
     The contents of this website is available for re-use under a
     [Creative Commons Attribution 4.0 International Licence](https://creativecommons.org/licenses/by/4.0/).
