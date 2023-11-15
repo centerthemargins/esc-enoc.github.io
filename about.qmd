@@ -48,6 +48,31 @@ University of Hull
 ::::
 
 
+## Members
+
+ENOC is a group of researchers from 13 different European countries, including:
+
+* Matt Ashby, University College London, UK
+* Wim Bernasco, Netherlands Institute for the Study of Crime and Law Enforcement, Netherlands
+* Iain Brennan, University of Hull, UK
+* Lucia Brisudová, Palacký University Olomouc, Czech Republic
+* David Buil-Gil, The University of Manchester, UK
+* Leticia Couto, University of Hull, UK
+* Linda Geven, Leiden University, Netherlands
+* Kuralarasan Kumar, Ghent university, Belgium
+* Charles C. Lanfear, University of Cambridge, UK
+* Samuel Langton, Netherlands Institute for the Study of Crime and Law Enforcement, Netherlands
+* Carly Lightowlers, University of Liverpool, UK
+* Ian Marder, Maynooth University, Ireland
+* Asier Moneva, Netherlands Institute for the Study of Crime and Law Enforcement and The Hague University of Applied Sciences, Netherlands
+* Amy Nivette, Utrecht University, Netherlands
+* Martí Rovira, Universitat Pompeu Fabra, Spain
+* Stijn Ruiter, Netherlands Institute for the Study of Crime and Law Enforcement and Utrecht University, Netherlands
+* Alex Trinidad, University of Cologne, Germany
+* Ferhat Tura, Bournemouth University, UK
+* Yuji Zocatelli Hashimoto, University of Lausanne, Switzerland
+
+
 ## More about us
 
 You can read our official [Terms of Reference](./terms-of-reference.html) as a working group of the European Society of Criminology.
