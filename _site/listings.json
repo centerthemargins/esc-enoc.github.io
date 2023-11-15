@@ -7,6 +7,14 @@
   },
   {
     "listing": "/news/index.html",
-    "items": []
+    "items": [
+      "/news/data-sharing-webinar.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/news/data-sharing-webinar.html"
+    ]
   }
 ]

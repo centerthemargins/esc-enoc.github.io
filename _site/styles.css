@@ -35,7 +35,7 @@ div.column {
   line-height: 0.9;
 }
 
-.home-page-feature {
+.home-page-feature, .home-page-news {
   margin-top: 3em;
 }
 

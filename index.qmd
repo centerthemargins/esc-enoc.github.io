@@ -1,6 +1,16 @@
 ---
 toc: false
+listing:
+  id: news
+  contents: "news/*.qmd"
+  exclude: 
+    title: "News"
+  max-items: 6
+  sort: "date"
+  type: grid
 ---
+
+:::: {.super-size}
 
 # Help your **research** have **impact** in the real&nbsp;world {.super-size}
 
@@ -16,3 +26,12 @@ Boost your research by:
 :::
 
 
+::::
+
+
+
+## Latest news {.home-page-news}
+
+::: {#news}
+
+:::
