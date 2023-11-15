@@ -20,6 +20,8 @@ ENOC is lead by three co-chairs.
 
 ::: {.column width="33%"}
 
+![](amy-nivette.jpg){.image-border}
+
 Dr [**Amy Nivette**](https://anivet.netlify.app/)<br>
 Utrecht University
 
