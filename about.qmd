@@ -9,7 +9,7 @@ The European Network for Open Criminology (ENOC) brings together criminologists 
 * making analytic code and research materials freely available online, and 
 * publishing research outputs (e.g., articles, books, data, peer reviews, software) in open access so anyone, from any part of the world, can view and download them without the need to log in or pay.
 
-We are a working group of the [European Society of Criminology](https://www.esc-eurocrim.org), Europe's largest association of crime researchers.
+We are a working group of the [European Society of Criminology](https://www.esc-eurocrim.org/), Europe's largest association of crime researchers.
 
 
 ## Our co-chairs
