@@ -1,0 +1,31 @@
+---
+title: "Webinar: ‘Data Sharing in Criminological Research: Tips and How-Tos’"
+---
+
+Data sharing is paramount in enhancing research transparency and advancing replicability and reproducibility in criminological research. Whether you work with administrative data, qualitative data, quantitative data, or various other types of sensitive data, this webinar brings together four distinguished speakers, each sharing their experience and insights. In this enlightening 90-minute session, we will delve into the critical world of data sharing, addressing barriers, offering practical how-tos, and exploring other key aspects.
+
+We will discuss strategies to overcome practical and ethical challenges associated with data sharing, gain hands-on guidance, and learn about the unique nuances in sharing different types of criminological data. Whether you're an experienced researcher or just beginning your journey in quantitative, qualitative or mixed-methods research, this webinar welcomes everyone interested in bolstering the quality and openness of criminological research.
+
+
+### Programme
+
+‘Sharing Quantitative Data: Barriers and Opportunities’ -- Isabelle van der Vegt, Utrecht University, Netherlands
+
+'Using and Sharing Data from Public Services in Crime and Justice Research' -- Matthew Ashby, University College London, UK
+
+‘Data Transparency in the Study of the August 2011 English Riots: A Qualitative Study’ -- Clifford Stott, Keele University, UK
+
+'Synthetic Data - A Solution for Making Sensitive Data FAIR?' -- Katharina Krüsselmann, Leiden University, Netherlands
+
+
+### Speakers
+
+[Isabelle van der Vegt](https://isabellevdv.net/) is an Assistant Professor with the Sociology department of Utrecht University. She holds a PhD in Security and Crime Science from University College London.
+
+[Matt Ashby](http://lesscrime.info/) is a Lecturer in Crime Science at the Jill Dando Institute of Security and Crime Science at University College London. Matt is interested in crime analysis – particularly how crime concentrates in time and space – in crime prevention and in transport crime.
+
+[Clifford Stott](https://www.keele.ac.uk/psychology/people/cliffordstott/) is a Professor of Social Psychology at Keele University in Staffordshire and a Visiting Professor at the John Glen College of Public Affairs at The Ohio State University in Columbus Ohio. His background is in crowd psychology and in 2016 he was a Co-Investigator on an ESRC funded collaborative project studying the social psychological dynamics that underpinned the spread of the August 2011 riots in England.
+
+[Katharina Krüsselmann](https://www.universiteitleiden.nl/en/staffmembers/katharina-krusselmann#tab-1) is a PhD Candidate at the Institute of Security and Global Affairs of Leiden University.
+
+The session will be chaired by Dr David Buil-Gil, Senior Lecturer in Quantitative Criminology at The University of Manchester and co-Chair of the European Network for Open Criminology.
