@@ -9,9 +9,9 @@ toc: false
 
 Boost your research by:
 
-* {{< fa arrow-right-long >}} making sure the world can read your work with [**open access**](how-to/open-access.html)
-* {{< fa arrow-right-long >}} helping others build on your work with [**open materials**](how-to/open-materials.html)
 * {{< fa arrow-right-long >}} documenting your work with [**open methods**](how-to/open-methods.html)
+* {{< fa arrow-right-long >}} helping others build on your work with [**open materials**](how-to/open-materials.html)
+* {{< fa arrow-right-long >}} making sure the world can read your work with [**open access**](how-to/open-access.html)
 
 :::
 
