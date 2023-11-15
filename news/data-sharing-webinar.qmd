@@ -1,10 +1,16 @@
 ---
-title: "Webinar: ‘Data Sharing in Criminological Research: Tips and How-Tos’"
+title: "Upcoming webinar: ‘Data Sharing in Criminological Research: Tips and How-Tos’"
+date: 2023-11-15
+description: "Join us on 29 November for a webinar on data sharing in criminological research"
 ---
+
+**Wednesday 29 November 2023, 16:00 UK time**
 
 Data sharing is paramount in enhancing research transparency and advancing replicability and reproducibility in criminological research. Whether you work with administrative data, qualitative data, quantitative data, or various other types of sensitive data, this webinar brings together four distinguished speakers, each sharing their experience and insights. In this enlightening 90-minute session, we will delve into the critical world of data sharing, addressing barriers, offering practical how-tos, and exploring other key aspects.
 
 We will discuss strategies to overcome practical and ethical challenges associated with data sharing, gain hands-on guidance, and learn about the unique nuances in sharing different types of criminological data. Whether you're an experienced researcher or just beginning your journey in quantitative, qualitative or mixed-methods research, this webinar welcomes everyone interested in bolstering the quality and openness of criminological research.
+
+[Sign up for free on Eventbrite](https://www.eventbrite.es/e/webinar-data-sharing-in-criminological-research-tips-and-how-tos-tickets-721223126787).
 
 
 ### Programme

@@ -3,6 +3,7 @@ title: "News"
 listing:
   id: news
   contents: "*.qmd"
+  fields: [title, reading-time, description]
 ---
 
 News from the European Network for Open Criminology.
