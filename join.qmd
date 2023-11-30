@@ -4,4 +4,6 @@ title: Join us
 
 The European Network for Open Criminology is open to anyone who is interested in helping foster and encourage practices that embrace openness, integrity and reproducibility in criminology research.
 
-You can join us for free by …
+You can join us for free by completing this registration form:
+
+<iframe src=https://docs.google.com/forms/d/e/1FAIpQLSeijezsT3hk4e3gX6fzI-iSTDK5ayYOCMs2AnqDv9LMU9vsXw/viewform?embedded=true width="640" height="1957" frameborder="0" marginheight="0" marginwidth="0">S&#39;Loading…</iframe>
