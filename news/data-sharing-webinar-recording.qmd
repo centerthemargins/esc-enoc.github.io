@@ -1,0 +1,35 @@
+---
+title: "Webinar Recording: ‘Data Sharing in Criminological Research: Tips and How-Tos’"
+date: 2023-11-15
+description: "Watch the recording of our first webinar"
+---
+
+On Wednesday 29th November 2023, the European Network for Open Criminology (ENOC) organised its first webinar, titled *Webinar Recording: ‘Data Sharing in Criminological Research: Tips and How-Tos’*. The recording of the session can be accessed here:
+
+<iframe src="https://video.manchester.ac.uk/embedded/ffffffff-e431-3b35-0000-018c1f48e480" width="660" height="380" style="border:none; overflow: hidden;" scrolling="no"  webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+Data sharing is paramount in enhancing research transparency and advancing replicability and reproducibility in criminological research. Whether you work with administrative data, qualitative data, quantitative data, or various other types of sensitive data, this webinar brings together four distinguished speakers, each sharing their experience and insights. In this enlightening 90-minute session, we delved into the critical world of data sharing, addressing barriers, offering practical how-tos, and exploring other key aspects.
+
+
+### Programme
+
+‘Sharing Quantitative Data: Barriers and Opportunities’ -- Isabelle van der Vegt, Utrecht University, Netherlands
+
+'Using and Sharing Data from Public Services in Crime and Justice Research' -- Matthew Ashby, University College London, UK
+
+‘Transparency in Qualitative Data’ -- Maureen Haaker, UK Data Service (University of Essex) and University of Suffolk, UK
+
+'Synthetic Data - A Solution for Making Sensitive Data FAIR?' -- Katharina Krüsselmann, Leiden University, Netherlands
+
+
+### Speakers
+
+[Isabelle van der Vegt](https://isabellevdv.net/) is an Assistant Professor with the Sociology department of Utrecht University. She holds a PhD in Security and Crime Science from University College London.
+
+[Matt Ashby](http://lesscrime.info/) is a Lecturer in Crime Science at the Jill Dando Institute of Security and Crime Science at University College London. Matt is interested in crime analysis – particularly how crime concentrates in time and space – in crime prevention and in transport crime.
+
+Maureen Haaker is a sociologist with expertise in qualitative data and methods. She's worked on the digitisation, curation, and re-use of qualitative datasets and published key texts on qualitative secondary analysis, teaching qualitative methods, and data management. She is a co-editor of IASSIST’s Qualitative Social Science and Humanities Data Interest Group and member of the NCRM International Network on Qualitative Archives and Data Reuse. She currently works as a Senior Lecturer at University of Suffolk in the School of Social Sciences and Humanities and as a senior qualitative user support and training officer at the UK Data Service.
+
+[Katharina Krüsselmann](https://www.universiteitleiden.nl/en/staffmembers/katharina-krusselmann#tab-1) is a PhD Candidate at the Institute of Security and Global Affairs of Leiden University.
+
+The session was chaired by Dr David Buil-Gil, Senior Lecturer in Quantitative Criminology at The University of Manchester and co-Chair of the European Network for Open Criminology.
