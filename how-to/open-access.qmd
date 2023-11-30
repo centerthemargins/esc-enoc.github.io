@@ -1,5 +1,6 @@
 ---
 title: Make sure the world can read your work with open access
+author: "Dr [Matt Ashby](https://lesscrime.info/), University College London"
 description: >
   Find out how to share the full text of your journal articles with the world
   for free.
@@ -39,6 +40,6 @@ Self archiving can be useful even if you intend to eventually publish your artic
 
 Open-access publishing isn't enough to ensure your article has an impact among practitioners. You can also present your work at practitioner conferences, publish summaries of the results in practitioner-focused magazines or websites, [discuss your findings on social media](https://www.natureindex.com/news-blog/ten-tips-tweeting-research-academic) or host a webinar. But self archiving to make your work available to practitioners and other readers who don't have access to journal subscriptions is a great first step.
 
-*This post first appeared on the [#CrimComm Blog](https://www.crimcomm.net/post/how-to-stop-hiding-your-research)*
+*This post first appeared on the (now defunct) #CrimComm Blog*
 
 *Thanks to [Dr Lily Gleicher](http://www.icjia.state.il.us/biographies/lily-gleicher) and [Prof Peter Moskos](https://www.jjay.cuny.edu/faculty/peter-moskos) for their comments on an earlier draft of this post.*
