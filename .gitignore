@@ -49,3 +49,6 @@ po/*~
 rsconnect/
 
 /.quarto/
+
+# Local render of website (since website is rendered through GitHub Actions)
+_site/
