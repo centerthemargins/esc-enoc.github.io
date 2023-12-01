@@ -66,6 +66,7 @@ ENOC is a group of researchers from 13 different European countries, including:
 * [Ian Marder](https://www.maynoothuniversity.ie/people/ian-marder/), Maynooth University, Ireland
 * [Asier Moneva](https://asiermoneva.com/), Netherlands Institute for the Study of Crime and Law Enforcement and The Hague University of Applied Sciences, Netherlands
 * [Amy Nivette](https://anivet.netlify.app/), Utrecht University, Netherlands
+* [Jose Pina-Sánchez](https://essl.leeds.ac.uk/law/staff/222/dr-jose-pina-sanchez), University of Leeds, UK
 * [Martí Rovira](https://martirovira.com/), Universitat Pompeu Fabra, Spain
 * [Stijn Ruiter](https://www.uu.nl/staff/SRuiter), Netherlands Institute for the Study of Crime and Law Enforcement and Utrecht University, Netherlands
 * [Alex Trinidad](https://www.alexandertrinidad.com/), University of Cologne, Germany
