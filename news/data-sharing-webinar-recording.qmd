@@ -1,6 +1,6 @@
 ---
 title: "Webinar Recording: ‘Data Sharing in Criminological Research: Tips and How-Tos’"
-date: 2023-11-15
+date: 2023-12-01
 description: "Watch the recording of our first webinar"
 ---
 
