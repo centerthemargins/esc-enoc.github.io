@@ -71,6 +71,7 @@ ENOC is a group of researchers from 13 different European countries, including:
 * [Stijn Ruiter](https://www.uu.nl/staff/SRuiter), Netherlands Institute for the Study of Crime and Law Enforcement and Utrecht University, Netherlands
 * [Alex Trinidad](https://www.alexandertrinidad.com/), University of Cologne, Germany
 * [Ferhat Tura](https://staffprofiles.bournemouth.ac.uk/display/ftura), Bournemouth University, UK
+* [Isabelle van der Vegt](https://isabellevdv.net/), Utrecht University, Netherlands
 * [Yuji Zocatelli Hashimoto](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1121042&LanCode=8), University of Lausanne, Switzerland
 
 
