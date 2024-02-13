@@ -1,0 +1,79 @@
+---
+title: "Workshop: Open Science and Open Data in European Criminological Research"
+date: 2024-02-13
+description: "Event organised at the University of Cologne"
+---
+
+The Institute of Sociology and Social Psychology of the University of Cologne, in collaboration with the European Network for Open Criminology (ENOC), and funding from the [ECONtribute](https://urldefense.com/v3/__https://econtribute.de/__;!!PDiH4ENfjr2_Jw!DIUFChBUjU_JoKlm2Z3-jV7ukSXnuT3D1XuGWDbbtDO4FZsx1wD8yUaR_ajVykw1ADc6ddNZgihCf7gi-gWWtQa_JuVdsCMPKtVHlA$ [econtribute[.]de]) cluster, organises the workshop titled *Open Science and Open Data in European Criminological Research*.
+
+**Date:** 24-25 September 2024
+
+**Location:** Institute of Sociology and Social Psychology, University of Cologne, Room S.242 Universitätsstr. 24 50937 Cologne, Germany
+
+Criminological research is crucial for informing public policies and the practices of law enforcement and criminal justice. However, several issues, such as the lack of replicability^1^, limited accessibility of results^2^, and concerns about questionable practices within the field^1^, among others, may undermine confidence in the discipline. While related behavioural sciences, such as psychology, have made strides towards more transparent and reproducible science, criminology lags far behind. In this context, some scholars have highlighted these issues and advocated for a shift towards Open Science (OS) in criminology^1^.
+
+The principles of OS, namely quality, integrity, collective benefit, equity, fairness, diversity, and inclusiveness^4^, (should) align with the values of most criminology researchers. Nonetheless, the implementation of these values in criminological research is not without controversy. For instance, the concept of open data presents a dilemma. Making data publicly available can enhance the replicability of results and their reliability through public scrutiny, as well as contribute to the theoretical development of criminology. Concretely, allowing researchers from diverse backgrounds and perspectives to access a given data set enables them to test existing theories or generate new hypotheses. However, much criminological data is sensitive, and its dissemination raises significant ethical concerns. Moreover, the time and economic costs involved often impede data sharing. Finally, care needs to be taken in order not to disincentivize efforts of primary data collection.
+
+In the European context, researchers, both individually and in teams, have been gradually embracing the values of OS. In 2023, collective initiatives have emerged, such as the formation of the ENOC (European Network for Open Criminology) within the European Society of Criminology. Against this backdrop, the University of Cologne, with support from ENOC, aims to foster a debate on OS in European criminology. With financial backing from ECONtribute, we plan to organize a workshop where papers that contribute to this discussion are presented, and the current state of OS in European criminology is examined. The workshop's aim is to gather researchers interested in criminology who compile, disseminate or use open data to address crime-related research questions, as well as those evaluating the prevalence of Open Science practices in crime research. We invite submissions from all subfields of criminology as well as other disciplines with an interest in crime research and encourage researchers at any career stage to contribute.
+
+With the support from ECONtribute, we are pleased to offer an honorarium to participants who present at the workshop. The honorarium amount will vary depending on the presenter's career stage and country of origin. It is designed to assist with travel and accommodation expenses, although it should be noted that it will not cover the entire cost of travel and accommodation. Additionally, a prize will be bestowed upon the research deemed by the scientific committee to make a significant contribution to the field of open science in Criminology.
+
+#### Topics of interest include:
+
+-   Meta-perspectives on the usage of open science principles in European criminology
+
+-   Reflections about Open Science and potential concerns in Criminological Research
+
+-   Benefits & risks of sharing criminological relevant data
+
+-   Open research & qualitative research in criminology
+
+-   Open qualitative data
+
+-   Reproducing & replicating international criminological research findings
+
+-   Using computational methods to obtain criminologically relevant open data
+
+-   Exploiting naturally occurring variations in open data sources to study causal effects
+
+The workshop committee, as proposed Guest Editors, are in contact with the Editorial Team of the European Journal of Criminology (EJC). A selection of contributions will be chosen to collate into a proposed Special Issue on the same topic, which has been approved in principle. Should the full proposal be acceptable to the EJC, the contributors will be presented with the opportunity to submit full manuscripts of their papers to the Special Issue. The final selection of the accepted full papers for the Special Issue in the EJC will be made after a peer-reviewed process and assessment by the workshop committee as Guest Editors with oversight from the EJC Editorial Team. While the Special Issue would focus on Open Science and the usage of open data in European criminology, we also welcome submissions that relate to other parts of the world as long as they demonstrate their relevance to the wider European context.
+
+**Abstract submission deadline:** April 16, 2024
+
+**Word limit:** 300 max.
+
+**Abstract submission** *[form](https://forms.office.com/r/DVMysmWngh)*
+
+### References
+
+^1^William Alex Pridemore, Matthew C. Makel, and Jonathan A. Plucker, ‘Replication in Criminology and the Social Sciences’, Annual Review of Criminology 1, no. 1 (2018): 19–38, [https://doi.org/10.1146/annurev-criminol-032317-091849](https://doi.org/10.1146/annurev-criminol-032317-091849)
+
+^2^Matthew P J Ashby, ‘The Open-Access Availability of Criminological Research to Practitioners and Policy Makers’, Journal of Criminal Justice Education 32, no. 1 (24 October 2020): 1–21, [https://doi.org/10.1080/10511253.2020.1838588](https://doi.org/10.1080/10511253.2020.1838588)
+
+^3^Jason M. Chin et al., ‘Questionable Research Practices and Open Science in Quantitative Criminology’, Journal of Quantitative Criminology 39, no. 1 (1 March 2023): 21–51,[https://doi.org/10.1007/s10940-021-09525-6](https://doi.org/10.1007/s10940-021-09525-6)
+
+^4^ UNESCO and Canadian National Commission for UNESCO, ‘An Introduction to the UNESCO Recommendation on Open Science’ (UNESCO, November 2022),[https://doi.org/10.54677/XOIR1696](https://doi.org/10.54677/XOIR1696)
+
+### Organisers
+
+[Clemens Kroneberg](https://urldefense.com/v3/__https://www.kroneberg.eu/__;!!PDiH4ENfjr2_Jw!DIUFChBUjU_JoKlm2Z3-jV7ukSXnuT3D1XuGWDbbtDO4FZsx1wD8yUaR_ajVykw1ADc6ddNZgihCf7gi-gWWtQa_JuVdsCNhcexygg$ [kroneberg[.]eu]) is Professor of Sociology at the Institute of Sociology and Social Psychology at the University of Cologne and a member of the ECONtribute Center of Excellence (Universities of Bonn and Cologne). His research interests include analytical sociology, migration and integration, crime and deviance, and social boundary-making.
+
+[Christof Nägel](https://urldefense.com/v3/__https://christofnaegel.netlify.app/__;!!PDiH4ENfjr2_Jw!DIUFChBUjU_JoKlm2Z3-jV7ukSXnuT3D1XuGWDbbtDO4FZsx1wD8yUaR_ajVykw1ADc6ddNZgihCf7gi-gWWtQa_JuVdsCMvKNYF1w$ [christofnaegel[.]netlify[.]app]) is a Post-doctoral researcher at the Institute of Sociology and Social Psychology at the University of Cologne. He has a broad interest in criminological topics through a causal inference lens.
+
+[Alex Trinidad](https://urldefense.com/v3/__https://www.alexandertrinidad.com/__;!!PDiH4ENfjr2_Jw!DIUFChBUjU_JoKlm2Z3-jV7ukSXnuT3D1XuGWDbbtDO4FZsx1wD8yUaR_ajVykw1ADc6ddNZgihCf7gi-gWWtQa_JuVdsCM3pc_lbw$ [alexandertrinidad[.]com]) is a Post-doctoral researcher at the Institute of Sociology and Social Psychology at the University of Cologne. His research interests revolve around crime perception, crime science and computational methods in criminological research.
+
+### Scientific Committee
+
+[Iain Brennan](https://urldefense.com/v3/__https://hull-repository.worktribe.com/person/316584/iain-brennan__;!!PDiH4ENfjr2_Jw!DIUFChBUjU_JoKlm2Z3-jV7ukSXnuT3D1XuGWDbbtDO4FZsx1wD8yUaR_ajVykw1ADc6ddNZgihCf7gi-gWWtQa_JuVdsCPcCLcKiQ$ [hull-repository[.]worktribe[.]com]), University of Hull, UK
+
+[David Buil-Gil](https://urldefense.com/v3/__https://builgil.com/__;!!PDiH4ENfjr2_Jw!DIUFChBUjU_JoKlm2Z3-jV7ukSXnuT3D1XuGWDbbtDO4FZsx1wD8yUaR_ajVykw1ADc6ddNZgihCf7gi-gWWtQa_JuVdsCNZQCh70g$ [builgil[.]com]), University of Manchester, UK
+
+[Clemens Kroneberg](https://urldefense.com/v3/__https://www.kroneberg.eu/__;!!PDiH4ENfjr2_Jw!DIUFChBUjU_JoKlm2Z3-jV7ukSXnuT3D1XuGWDbbtDO4FZsx1wD8yUaR_ajVykw1ADc6ddNZgihCf7gi-gWWtQa_JuVdsCNhcexygg$ [kroneberg[.]eu]), University of Cologne, Germany
+
+[Christof Nägel](https://urldefense.com/v3/__https://christofnaegel.netlify.app/__;!!PDiH4ENfjr2_Jw!DIUFChBUjU_JoKlm2Z3-jV7ukSXnuT3D1XuGWDbbtDO4FZsx1wD8yUaR_ajVykw1ADc6ddNZgihCf7gi-gWWtQa_JuVdsCMvKNYF1w$ [christofnaegel[.]netlify[.]app]), University of Cologne, Germany
+
+[Amy Nivette](https://urldefense.com/v3/__https://anivet.netlify.app/__;!!PDiH4ENfjr2_Jw!DIUFChBUjU_JoKlm2Z3-jV7ukSXnuT3D1XuGWDbbtDO4FZsx1wD8yUaR_ajVykw1ADc6ddNZgihCf7gi-gWWtQa_JuVdsCOp-HQqBw$ [anivet[.]netlify[.]app]), Utrecht University, The Netherlands
+
+[Alex Trinidad](https://urldefense.com/v3/__https://www.alexandertrinidad.com/__;!!PDiH4ENfjr2_Jw!DIUFChBUjU_JoKlm2Z3-jV7ukSXnuT3D1XuGWDbbtDO4FZsx1wD8yUaR_ajVykw1ADc6ddNZgihCf7gi-gWWtQa_JuVdsCM3pc_lbw$ [alexandertrinidad[.]com]), University of Cologne, Germany
+
+The full call for papers can be found [here](https://urldefense.com/v3/__https://econtribute.de/wp-content/uploads/Call-for-Papers_Crim_ECONtr_ENOC_UzK.pdf__;!!PDiH4ENfjr2_Jw!DIUFChBUjU_JoKlm2Z3-jV7ukSXnuT3D1XuGWDbbtDO4FZsx1wD8yUaR_ajVykw1ADc6ddNZgihCf7gi-gWWtQa_JuVdsCPvjOvEgQ$ [econtribute[.]de])
