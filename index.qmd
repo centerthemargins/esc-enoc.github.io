@@ -25,6 +25,7 @@ Boost your research by:
 -->
 
 * {{< fa arrow-right-long >}} making sure the world can read your work with [**open access**](how-to/open-access.html)
+* {{< fa arrow-right-long >}} advancing the standard model of publishing with [**registered reports**](how-to/registered%20reports.html)
 
 :::
 
