@@ -14,65 +14,9 @@ We are a working group of the [European Society of Criminology](https://www.esc-
 
 ## Our co-chairs
 
-ENOC is lead by three co-chairs.
-
-:::: {.columns}
-
-::: {.column width="33%"}
-
-![](amy-nivette.jpg){.image-border}
-
-Dr [**Amy Nivette**](https://anivet.netlify.app/)<br>
-Utrecht University
-
-:::
-
-::: {.column width="33%"}
-
-![](david-buil-gil.jpg){.image-border}
-
-Dr [**David Buil Gil**](https://builgil.com/)<br>
-University of Manchester
-
-:::
-
-::: {.column width="33%"}
-
-![](iain-brennan.jpg){.image-border}
-
-Prof [**Iain Brennan**](https://www.hull.ac.uk/staff-directory/iain-brennan)<br>
-University of Hull
-
-:::
-
-::::
-
 
 ## Members
 
-ENOC is a group of researchers from 13 different European countries, including:
-
-* [Matt Ashby](https://lesscrime.info/), University College London, UK
-* [Wim Bernasco](https://wimbernascoweb.netlify.app/), Netherlands Institute for the Study of Crime and Law Enforcement, Netherlands
-* [Iain Brennan](https://www.hull.ac.uk/staff-directory/iain-brennan), University of Hull, UK
-* [Lucia Brisudová](https://geography.upol.cz/lucia-brisudova-en), Palacký University Olomouc, Czech Republic 
-* [David Buil Gil](https://builgil.com/), The University of Manchester, UK
-* [Leticia Couto](https://www.hull.ac.uk/staff-directory/leticia-couto), University of Hull, UK
-* [Linda Geven](https://www.lindageven.com/), Leiden University, Netherlands
-* [Kuralarasan Kumar](https://ircp.ugent.be/researchers/kuralarasan-kumar-2/), Ghent University, Belgium
-* [Charles Lanfear](https://clanfear.github.io), University of Cambridge, UK
-* [Samuel Langton](https://www.samlangton.info/), Netherlands Institute for the Study of Crime and Law Enforcement, Netherlands
-* [Carly Lightowlers](https://www.liverpool.ac.uk/sociology-social-policy-and-criminology/staff/carly-lightowlers/), University of Liverpool, UK
-* [Ian Marder](https://www.maynoothuniversity.ie/people/ian-marder/), Maynooth University, Ireland
-* [Asier Moneva](https://asiermoneva.com/), Netherlands Institute for the Study of Crime and Law Enforcement and The Hague University of Applied Sciences, Netherlands
-* [Amy Nivette](https://anivet.netlify.app/), Utrecht University, Netherlands
-* [Jose Pina-Sánchez](https://essl.leeds.ac.uk/law/staff/222/dr-jose-pina-sanchez), University of Leeds, UK
-* [Martí Rovira](https://martirovira.com/), Universitat Pompeu Fabra, Spain
-* [Stijn Ruiter](https://www.uu.nl/staff/SRuiter), Netherlands Institute for the Study of Crime and Law Enforcement and Utrecht University, Netherlands
-* [Alex Trinidad](https://www.alexandertrinidad.com/), University of Cologne, Germany
-* [Ferhat Tura](https://staffprofiles.bournemouth.ac.uk/display/ftura), Bournemouth University, UK
-* [Isabelle van der Vegt](https://isabellevdv.net/), Utrecht University, Netherlands
-* [Yuji Zocatelli Hashimoto](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1121042&LanCode=8), University of Lausanne, Switzerland
 
 
 ## More about us
